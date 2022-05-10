@@ -10,4 +10,4 @@ In this project we will predict whether it will rain tomorrow or not. We will be
 * Model Building using ML 
 * Model Building using Auto ML i.e PyCaret
 
-** PROCEDURAL DESCRIPTION IN NOTEBOOK**
+**PROCEDURAL DESCRIPTION IN NOTEBOOK**
